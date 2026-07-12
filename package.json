@@ -1,0 +1,11 @@
+{
+  "name": "flora-floral-artistry",
+  "version": "2.0.0",
+  "description": "Flora — Floral Artistry. Scope 2: interactive layer over static markup (retina images, modal + forms, axios/json-server API, dynamic lists, pagination & filtering).",
+  "scripts": {
+    "api": "json-server --watch db.json --port 3001"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}

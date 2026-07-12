@@ -1,0 +1,134 @@
+{
+  "bouquets": [
+    {
+      "id": 1,
+      "title": "Peach Meadow",
+      "category": "pastel",
+      "price": 55,
+      "image": "peach-meadow",
+      "description": "A soft and radiant arrangement of peach and blush roses with lush greenery in a straw basket — light and natural."
+    },
+    {
+      "id": 2,
+      "title": "Blush Romance",
+      "category": "pastel",
+      "price": 34,
+      "image": "blush-romance",
+      "description": "A premium bouquet of deep pink and ivory roses, complemented by silver eucalyptus — sophisticated and intimate."
+    },
+    {
+      "id": 3,
+      "title": "Pastel Garden",
+      "category": "pastel",
+      "price": 40,
+      "image": "pastel-garden",
+      "description": "A pastel-toned mix of spray roses and greenery in a woven basket — gentle, airy, and perfect for any occasion."
+    },
+    {
+      "id": 4,
+      "title": "Soft Bloom",
+      "category": "pastel",
+      "price": 37,
+      "image": "soft-bloom",
+      "description": "A delicate bouquet of pink carnations and roses wrapped in satin paper — soft, stylish, and versatile."
+    },
+    {
+      "id": 5,
+      "title": "Sweet Whisper",
+      "category": "pastel",
+      "price": 40,
+      "image": "sweet-whisper",
+      "description": "A charming spring bouquet with peonies, roses, and lilac-toned accents — fresh, lively, and expressive."
+    },
+    {
+      "id": 6,
+      "title": "Tulip Charm",
+      "category": "tulips",
+      "price": 61,
+      "image": "tulip-charm",
+      "description": "A vivid bouquet of bright tulips and roses in a lavender box — cheerful and full of charm."
+    },
+    {
+      "id": 7,
+      "title": "Golden Tulip Basket",
+      "category": "tulips",
+      "price": 58,
+      "image": "tulip-charm",
+      "description": "Golden and coral tulips gathered in a rustic basket — a warm, sunny centerpiece for any table."
+    },
+    {
+      "id": 8,
+      "title": "Lavender Tulip Mix",
+      "category": "tulips",
+      "price": 46,
+      "image": "lavender-dream",
+      "description": "Lavender-toned tulips paired with dried grasses — an understated, elegant everyday bouquet."
+    },
+    {
+      "id": 9,
+      "title": "Spring Elegance",
+      "category": "roses",
+      "price": 35,
+      "image": "spring-elegance",
+      "description": "A delicate blend of peonies, tulips, and roses — perfect for springtime gifting and bright smiles."
+    },
+    {
+      "id": 10,
+      "title": "Crimson Rose",
+      "category": "roses",
+      "price": 55,
+      "image": "berry-chic",
+      "description": "A stylish composition of roses, seasonal greenery, and vibrant berries — a bold and elegant floral statement."
+    },
+    {
+      "id": 11,
+      "title": "Berry Bloom",
+      "category": "roses",
+      "price": 32,
+      "image": "berry-bloom",
+      "description": "A lush mix of rich pink, purple, and cream blooms with textured greens — romantic and elegant."
+    },
+    {
+      "id": 12,
+      "title": "Ruby Rose Dozen",
+      "category": "roses",
+      "price": 65,
+      "image": "berry-chic",
+      "description": "A classic dozen of deep red roses finished with satin ribbon — timeless and romantic."
+    },
+    {
+      "id": 13,
+      "title": "Field Joy",
+      "category": "seasonal",
+      "price": 49,
+      "image": "field-joy",
+      "description": "A rustic hand-tied bouquet of sunflowers, lisianthus, and daisies — perfect for brightening the day."
+    },
+    {
+      "id": 14,
+      "title": "Sunny Bliss",
+      "category": "seasonal",
+      "price": 40,
+      "image": "lavender-dream",
+      "description": "A rich bouquet with lavender, lisianthus, and roses — ideal for those who love deep hues and gentle fragrance."
+    },
+    {
+      "id": 15,
+      "title": "Wildflower Basket",
+      "category": "seasonal",
+      "price": 44,
+      "image": "field-joy",
+      "description": "A loose, garden-style gathering of seasonal wildflowers — cheerful, textured, and full of movement."
+    },
+    {
+      "id": 16,
+      "title": "Autumn Whisper",
+      "category": "seasonal",
+      "price": 42,
+      "image": "sweet-whisper",
+      "description": "Warm-toned blooms with dried accents — a cozy seasonal arrangement for autumn celebrations."
+    }
+  ],
+  "requests": [],
+  "subscribers": []
+}
